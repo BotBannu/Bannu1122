@@ -16,7 +16,7 @@
 - 🤖 Experience with **Machine Learning** & **Predictive Modeling**
 - 📈 Love building **interactive dashboards** in Power BI
 - 💼 **Actively looking for Data Analyst opportunities**
-- 📩 Reach me at: **your.email@gmail.com**
+- 📩 Reach me at: **naikbannu42@gmail.com**
 
 ---
 
@@ -69,10 +69,10 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="www.linkedin.com/in/bannu-naik-a43015244">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:naikbannu42email@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -90,8 +90,8 @@
 
 | Find | Replace with |
 |------|-------------|
-| `your.email@gmail.com` | Your real email |
-| `YOUR_LINKEDIN_URL_HERE` | Your LinkedIn URL |
+| `naikbannu42email@gmail.com` 
+| `www.linkedin.com/in/bannu-naik-a43015244` 
 
 ---
 
