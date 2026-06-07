@@ -69,7 +69,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/bannu-tejavath-a43015244">
+<a href="https://www.linkedin.com/in/bannu-tejavath-a43015244/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:tejavathbannuemail@gmail.com">
@@ -91,7 +91,7 @@
 | Find | Replace with |
 |------|-------------|
 | `tejavathbannuemail@gmail.com` 
-| `www.linkedin.com/in/bannu-tejavath-a43015244` 
+| `https://www.linkedin.com/in/bannu-tejavath-a43015244/` 
 
 ---
 
